@@ -1,2 +1,2 @@
 # mensajes_app
-aplicacion de mensajerias 
+Aplicacion de mensajerias con java y mysql
